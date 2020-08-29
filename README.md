@@ -51,25 +51,51 @@ used to solve certain problems.
 ### Stats
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=p403n1x87&show_icons=true&theme=tokyonight&hide_border=true">
+    <img alt="GitHub Stats"
+         src="https://github-readme-stats.vercel.app/api?username=p403n1x87&show_icons=true&theme=tokyonight&hide_border=true" />
     &nbsp;
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p403n1x87&theme=tokyonight&hide_border=true&layout=compact"
+    <img alt="Top Language"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=p403n1x87&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ----
 
 <p align="center">
-    <a href="https://p403n1x87.github.io/" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/-the--hub--of--heliopolis-000000?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/gabriele-tornetta-b2733759" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Gabriele%20Tornetta-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/528399/phoenix87" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-phoenix87-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/gabriele-tornetta-b2733759" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@p403n1x87-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/User:Gabriele_Nunzio_Tornetta" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Gabriele%20Nunzio%20Tornetta-7f7f7f?style=flat-square&logo=Wikipedia&logoColor=black&labelColor=white"></a>
+    <a href="https://p403n1x87.github.io/" target="_blank">
+        <img alt="GitHub Pages"
+             src="https://img.shields.io/badge/-the--hub--of--heliopolis-000000?style=flat-square&logo=GitHub&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/gabriele-tornetta-b2733759" target="_blank">
+        <img alt="LinkedIn"
+             src="https://img.shields.io/badge/-Gabriele%20Tornetta-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+    </a>
+    <a href="https://stackexchange.com/users/528399/phoenix87" target="_blank">
+        <img alt="Stack Exchange"
+             src="https://img.shields.io/badge/-phoenix87-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/p403n1x87" target="_blank">
+        <img alt="Twitter"
+             src="https://img.shields.io/badge/-@p403n1x87-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/User:Gabriele_Nunzio_Tornetta" target="_blank">
+        <img alt="wikipedia"
+             src="https://img.shields.io/badge/-Gabriele%20Nunzio%20Tornetta-7f7f7f?style=flat-square&logo=Wikipedia&logoColor=black&labelColor=white" />
+    </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/p403n1x87" target="_blank"><img alt="P403n1x87" src="https://badges.pufler.dev/visits/p403n1x87/p403n1x87?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/p403n1x87" target="_blank"><img alt="P403n1x87" src="https://badges.pufler.dev/repos/p403n1x87?logo=GitHub&label=repos&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/p403n1x87" target="_blank"><img alt="P403n1x87" src="https://badges.pufler.dev/gists/p403n1x87?logo=GitHub&label=gists&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/p403n1x87" target="_blank">
+        <img alt="visits"
+             src="https://badges.pufler.dev/visits/p403n1x87/p403n1x87?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square" />
+    </a>
+    <a href="https://github.com/p403n1x87" target="_blank">
+        <img alt="repos"
+             src="https://badges.pufler.dev/repos/p403n1x87?logo=GitHub&label=repos&color=success&logoColor=white&style=flat-square" />
+    </a>
+    <a href="https://github.com/p403n1x87" target="_blank">
+        <img alt="gists"
+             src="https://badges.pufler.dev/gists/p403n1x87?logo=GitHub&label=gists&color=success&logoColor=white&style=flat-square" />
+    </a>
 </p>
 
 <!--
