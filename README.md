@@ -41,8 +41,8 @@ production.
 ### Growth
 
 I always wanted to learn about Machine Learning and in 2018 I started exploring
-its mathematical fundamentals. The result is a set of notes that collect
-rigorous results in the field which I hope to get published soon.
+its mathematical fundamentals. You can find my personal take in my book
+[The Mathematical Foundations of Machine Learning](https://www.amazon.co.uk/dp/B093CHHMSQ).
 
 My project [Marvin](https://github.com/P403n1x87/marvin) collects some code that
 I wrote as part of my experiments and applications of ML techniques that I have
