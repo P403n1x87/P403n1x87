@@ -38,6 +38,13 @@ minimal impact on the application runtime, making it ideal for profiling in
 production.
 
 
+### Contributions
+
+My work on Austin is helping developing the profiling interface of Python. See
+my contributions to [CPython](https://github.com/python/cpython/pulls?q=is%3Apr+author%3AP403n1x87+)
+for more details.
+
+
 ### Growth
 
 I always wanted to learn about Machine Learning and in 2018 I started exploring
