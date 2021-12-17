@@ -25,8 +25,12 @@ what was inside and understand how they worked.
 A list of all my academic publications can be found on
 [arxiv.org](https://arxiv.org/a/tornetta_g_1.html).
 
-I also maintain [The Hub of Heliopolis](http://p403n1x87.github.io/), a blog
+I maintain [The Hub of Heliopolis](http://p403n1x87.github.io/), a blog
 where I collect the notes of my experiments with technology.
+
+I'm also the author of the following books
+
+- [The Mathematical Foundations of Machine Learning](https://www.amazon.co.uk/Mathematical-Foundations-Machine-Learning/dp/B093CHHMSQ)
 
 
 ### Main Projects
@@ -36,6 +40,11 @@ frame stack sampler for CPython which can be used to build powerful statistical
 profilers for Python applications that don't require instrumentation and have
 minimal impact on the application runtime, making it ideal for profiling in
 production.
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=p403n1x87&repo=austin&hide_border=true&theme=tokyonight)](https://github.com/p403n1x87/austin)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=p403n1x87&repo=austin-tui&hide_border=true&theme=tokyonight)](https://github.com/p403n1x87/austin-tui)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=p403n1x87&repo=austin-vscode&hide_border=true&theme=tokyonight)](https://github.com/p403n1x87/austin-vscode)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=p403n1x87&repo=austin-web&hide_border=true&theme=tokyonight)](https://github.com/p403n1x87/austin-web)
 
 
 ### Contributions
@@ -55,14 +64,22 @@ My project [Marvin](https://github.com/P403n1x87/marvin) collects some code that
 I wrote as part of my experiments and applications of ML techniques that I have
 used to solve certain problems.
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=p403n1x87&repo=marvin&hide_border=true&theme=tokyonight)](https://github.com/p403n1x87/marvin)
+
 ### Stats
 
 <p align="center">
     <img alt="GitHub Stats"
+         width="480px"
          src="https://github-readme-stats.vercel.app/api?username=p403n1x87&show_icons=true&theme=tokyonight&hide_border=true" />
-    &nbsp;
+    </br>
+    <img alt="GitHub Stats"
+         width="480px"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=p403n1x87&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+    </br>
     <img alt="Top Language"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=p403n1x87&theme=tokyonight&hide_border=true&layout=compact" />
+         width="480px"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=p403n1x87&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&include_all_commits=true&hide_progress=true" />
 </p>
 
 ----
