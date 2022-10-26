@@ -30,6 +30,8 @@ where I collect the notes of my experiments with technology.
 
 I'm also the author of the following books
 
+- [Mathematical Quantum Physics, A Foundational Introduction](https://link.springer.com/book/10.1007/978-3-031-14812-5)
+
 - [The Mathematical Foundations of Machine Learning](https://www.amazon.co.uk/Mathematical-Foundations-Machine-Learning/dp/B093CHHMSQ)
 
 
